@@ -72,7 +72,7 @@ a {
 #footer {
   display: flex;
   justify-content: center;
-  font-size: 1.2vw;
+  font-size: 1vw;
   letter-spacing: .08vw;
 
   border-top: 1px solid #171A1F;
